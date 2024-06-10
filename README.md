@@ -8,6 +8,6 @@ This project was built for The Odin Project as part of HTML Foundations course.
 - Links and Images
 - Commit Messages
 ## Future Updates
-- Styles
+- Styles (done 10/06/2024)
 ## What I've Learned
 - How to organize my commits
