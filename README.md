@@ -9,3 +9,5 @@ This project was built for The Odin Project as part of HTML Foundations course.
 - Commit Messages
 ## Future Updates
 - Styles
+## What I've Learned
+- How to organize my commits
