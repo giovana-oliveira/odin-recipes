@@ -11,3 +11,5 @@ This project was built for The Odin Project as part of HTML Foundations course.
 - Styles (done 10/06/2024)
 ## What I've Learned
 - How to organize my commits
+- Box model
+- Block and Inline
